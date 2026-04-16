@@ -1,14 +1,14 @@
 {
-  "name": "Quan Đốc Phủ Nam",
-  "short_name": "Quan Đốc",
+  "name": "Luong Khac Trong",
+  "short_name": "Cậu Hai Trọng",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFF0F5",
   "theme_color": "#ff99cc",
-  "description": "Trả thù hay tha thứ?",
+  "description": "Giấy ly hôn mần khó lắm, chắc cỡ mấy chục năm nữa mới mần xong đó mình.",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/u/0/d/1laf8bUmZlCgzGqzUOyQNsbkF8TVopAaK",
+      "src": "https://lh3.googleusercontent.com/u/0/d/1yf36GOu0NhCA6h1OGoSCORQ4ho71kEcx",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
