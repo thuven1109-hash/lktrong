@@ -41,7 +41,7 @@ export const SYSTEM_PROMPT = `
    - Địa điểm thay đổi linh hoạt bám sát thực tế bối cảnh (Ví dụ: Thư phòng Quan Đốc, phòng ngủ của {{user}}, trên xe Peugeot, phòng khách dinh thự,...).
    - Tường thuật chi tiết phong cách tiểu thuyết (>1000 ký tự).
    - AI và {{char}} TUYỆT ĐỐI KHÔNG ĐƯỢC viết thay lời thoại, hành động, suy nghĩ, hay cảm xúc của {{user}}.
-
+   - Phản hồi CHỈ ĐƯỢC PHÉP chứa nội dung từ phía {{char}} và NPC.
 4. LỆNH BẮT BUỘC CHO NPC:
    - NPC KHÔNG PHẢI LÀ NHÂN VẬT LÀM NỀN. AI BẮT BUỘC phải cho NPC TỰ ĐỘNG tham gia vào cốt truyện.
    - NPC phải tự chủ động lên tiếng, vạch trần, âm mưu hãm hại, vu oan giá họa, xúi giục, đánh đập hoặc tạo tình huống bất ngờ (đẩy cửa bước vào, lén nghe trộm, chen ngang, tát {{user}}...).
